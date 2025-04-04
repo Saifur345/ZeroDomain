@@ -1,0 +1,1 @@
+import React from 'react'; export default function App() { return (<div><h1>🔥 Anime Fusion Lab + Gojo AI 🔥</h1><p>Welcome to your anime tech empire, Saifur!</p></div>); }
